@@ -1,15 +1,10 @@
 # Boarding Hotel Management System
 
-A native PHP 8 + MySQL (MySQLi) web application for managing boarding students in an
-institutional hostel/dormitory: admissions, room & bed allocation, meal records,
-payments, complaints, leave management, attendance, notices and staff administration.
+A native PHP 8 + MySQL (MySQLi) web application for managing boarding students in an institutional hostel/dormitory: admissions, room & bed allocation, meal records, payments, complaints, leave management, attendance, notices and staff administration.
 
-No framework is used — plain PHP templates with Tailwind (CDN), so the codebase is
-easy to host on any shared server, XAMPP, or the PHP built-in server.
+No framework is used — plain PHP templates with Tailwind (CDN), so the codebase is easy to host on any shared server, XAMPP, or the PHP built-in server.
 
-**Stack honesty note:** the application code is **procedural Core PHP** using
-mysqli's *object-style API* (`$conn->prepare(...)`). There is no custom OOP layer,
-no framework, and no Composer dependency — what you see is plain, readable PHP.
+**Stack honesty note:** the application code is **procedural Core PHP** using mysqli's *object-style API* (`$conn->prepare(...)`). There is no custom OOP layer, no framework, and no Composer dependency — what you see is plain, readable PHP.
 
 ## Screenshots
 
