@@ -28,7 +28,7 @@ CREATE TABLE users (
 
 -- Insert Demo Admin (password: admin123)
 INSERT INTO users (full_name, email, password, role, status)
-VALUES ('Administrator', 'admin@boarding.com', '$2y$10$YIjlrJyPgd3/UL.KY7Hde.sSicSBEWmHCKXDCKKmkqVvvO3pBRBXK', 'Admin', 1);
+VALUES ('Administrator', 'admin@boarding.com', '$2y$10$dhSz0qcWxHW4DlkxFKXqieN1hBoDLfSmjfNDPLpTnE3UiT5KUC2T6', 'Admin', 1);
 
 -- ===========================================
 -- Guardians Table
